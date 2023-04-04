@@ -1,13 +1,4 @@
-<?php
-$p = 'Приветствую Вас на моей страничке!';
-?>
 
-<?php
-$name = 'Альфред';
-$surname = 'Рагнар';
-$city = 'Алания';
-$age = 145;
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +17,7 @@ $age = 145;
     </div>
 
     <div class="about_me" >
-        <?php  include 'main.php'; ?>
+        <?php  include 'main.inc.php'; ?>
         <h1> <?php echo $p ?> </h1>
 
         <div class="data">
