@@ -1,4 +1,13 @@
+<?php
+$p = 'Приветствую Вас на моей страничке!';
+?>
 
+<?php
+$name = 'Альфред';
+$surname = 'Рагнар';
+$city = 'Алания';
+$age = 145;
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
