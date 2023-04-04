@@ -9,4 +9,4 @@ $city = 'Алания';
 $age = 145;
 ?>
 
-<?php //include 'main.php';?>
+<?php //include 'index.php';?>
