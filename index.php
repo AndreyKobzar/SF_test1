@@ -17,7 +17,7 @@
     </div>
 
     <div class="about_me" >
-<!--         <?php  include 'main.inc.php'; ?> -->
+        <?php  include 'main.inc.php'; ?>
         <h1> <?php echo $p ?> </h1>
 
         <div class="data">
